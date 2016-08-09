@@ -1,10 +1,9 @@
 # Footmali Web CMS
 
 ## Development
+
 1. Install packages ` composer update `
-2. Configure .env
-..* create .env file from .env.example
-..* configure enviroment variables
+2. Configure a .env using .env.example
 
 ## Official Laravel Documentation
 
