@@ -1,8 +1,6 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
-    "license": "MIT",
+    "name": "footmali/footamli-cms",
+    "description": "Footmali web CMS",
     "type": "project",
     "require": {
         "php": ">=5.5.9",

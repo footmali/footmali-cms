@@ -2,8 +2,9 @@
 
 ## Development
 
-1. Install packages ` composer update `
-2. Configure a .env using .env.example
+1. Install composer packages ` composer update `
+1. Install node packages ` npm install `
+2. Configure a new .env using .env.example
 
 ## Official Laravel Documentation
 
